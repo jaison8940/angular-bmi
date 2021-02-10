@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bmi-dev-163406-authRole",
+      "UnauthRoleArn": "arn:aws:iam::998524929619:role/amplify-bmi-dev-163406-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::998524929619:role/amplify-bmi-dev-163406-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bmi-dev-163406-deployment",
+      "UnauthRoleName": "amplify-bmi-dev-163406-unauthRole",
+      "StackName": "amplify-bmi-dev-163406",
+      "StackId": "arn:aws:cloudformation:us-east-1:998524929619:stack/amplify-bmi-dev-163406/b51e0170-6b8f-11eb-bf54-0e1c7f65113d",
+      "AmplifyAppId": "d20iu3svndi3f1"
+    }
+  }
+}
